@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **ga741741@gmail.com**
 
-- 📄 Know about my experiences my cv(https://drive.google.com/file/d/1JJ0iVT3qt0wJnNVdQFakORxlbUkYZ35N/view?usp=sharing).
+- 📄 Know about my experiences my cv <a href='https://drive.google.com/file/d/1JJ0iVT3qt0wJnNVdQFakORxlbUkYZ35N/view?usp=sharing'>Link</a>.
 
-- My Online Protfolio Link(https://af1848361.github.io/Portfolio/).
+- My Online Protfolio <a href='https://af1848361.github.io/Portfolio/'>Link</a>.
 
 - ⚡ Fun fact **Anime and Gaming**
 
