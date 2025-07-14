@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences my cv <a href='https://drive.google.com/file/d/1JJ0iVT3qt0wJnNVdQFakORxlbUkYZ35N/view?usp=sharing'>Link</a>.
 
-- My Online Protfolio <a href='https://af1848361.github.io/Portfolio/'>Link</a>.
+- My Online Protfolio <a href='https://portfolio-bice-kappa-46.vercel.app/'>Link</a>.
 
 - ⚡ Fun fact **Anime and Gaming**
 
